@@ -33,7 +33,7 @@ int main()
         {
             system("cls");
             cout << "Choose the operation (X to quit):" << endl;
-            cout << "| + | - | * | / | ^ |" << endl;
+            cout << "| + | - | * | / |" << endl;
             char ro;
             cin >> ro;
 
