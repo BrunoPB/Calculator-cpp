@@ -9,7 +9,7 @@ void soma();
 void sub();
 void multi();
 void divi();
-//void pow();
+//void pow(); Will be added eventually
 
 class resultDivi
 {
