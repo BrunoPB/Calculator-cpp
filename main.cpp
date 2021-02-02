@@ -4,7 +4,7 @@
 #include <stdbool.h>
 
 using namespace std;
-
+//Comment for GitHub
 void soma();
 void sub();
 void multi();
