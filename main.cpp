@@ -51,7 +51,7 @@ int main()
             case '/':
                 divi();
                 break;
-            /*case '^':
+            /*case '^': Will be added
                 pow();*/
             case 'x':
                 quit = true;
